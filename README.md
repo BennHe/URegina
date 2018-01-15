@@ -1,6 +1,6 @@
 ## Welcome to URegina Pages
 
-# Header 1
+# Introduction
 ## Header 2
 ### Header 3
 
